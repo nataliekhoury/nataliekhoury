@@ -1,6 +1,5 @@
 
-#👋 Hi, I'm Natalie Khoury!  <br>
-💻 Junior Software Engineer | Full-Stack Developer | QA Engineer  <br><br>🚀 Passionate about software development, problem-solving, and building innovative applications.  <br>🌍 Open to new opportunities!  <br>
+👋 Hi, I'm Natalie Khoury!  <br>💻 Junior Software Engineer | Full-Stack Developer | QA Engineer  <br><br>🚀 Passionate about software development, problem-solving, and building innovative applications.  <br>🌍 Open to new opportunities!  <br>
 
 
 ## 🌐 Socials:
@@ -14,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliekhoury&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 <picture>
