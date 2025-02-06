@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Natalie Khoury!  <br>💻 Junior Software Engineer | Full-Stack Developer | QA Engineer  <br><br>🚀 Passionate about software development, problem-solving, and building innovative applications.  <br>🌍 Open to new opportunities!  <br>
 
 
